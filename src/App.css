@@ -14,6 +14,7 @@
   color: white;
   display: block;
   margin: auto;
+  margin: auto;
   padding: 15px;
   width: 100px;
   margin-top: 10px;
@@ -35,9 +36,15 @@
 
 ul {
   margin-bottom: 10px;
+  width: 88%;
+  
+  border: 1px solid rgb(79, 68, 68);
+  margin: auto;
 }
 li{
   display: flex;
   align-items: center;
   margin-bottom: 10px;
+  
+  
 }
